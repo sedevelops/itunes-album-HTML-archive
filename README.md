@@ -5,7 +5,8 @@ Create and maintain an neat HTML rendition of your iTunes album collection. Util
 
 =-=-=-=-=-=-=-=-=-=-=-=-  
 **version**: 0.1  
-**project homepage**: http://sethelalouf.com/archives/133  
+**Project Homepage**: http://sethelalouf.com/archives/133  
+**Demo**: http://sethelalouf.com/wp-content/project_files/ialbum_archive/  
 =-=-=-=-=-=-=-=-=-=-=-=-
 
 
